@@ -1,0 +1,10 @@
+altgraph==0.17.4
+docstring-to-markdown==0.15
+packaging==24.1
+parso==0.8.4
+pluggy==1.5.0
+pyasn1==0.6.1
+PySimpleGUI==5.0.6
+python-lsp-jsonrpc==1.1.2
+rsa==4.9
+ujson==5.10.0
