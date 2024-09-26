@@ -2,7 +2,7 @@ import PySimpleGUI as sg
 
 sg.theme('Dark Brown')
 
-keyboardImage = sg.Image('new-keyboard-layout.png')
+keyboardImage = sg.Image('new-keyboard-layout-smallest.png')
 
 layout = [[keyboardImage]]
 
